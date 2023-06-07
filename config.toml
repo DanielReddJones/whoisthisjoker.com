@@ -68,7 +68,7 @@ weight = 20
 [taxonomies]
 category = "categories"
 tag = "tags"
-postslist = "Blog posts"
+#postslist = "Blog posts"
 
 [privacy]
 
