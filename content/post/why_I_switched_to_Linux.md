@@ -27,7 +27,7 @@ I finished one of my essays and hit save, then "x'ed" it out and planned on edit
  
 
  
-<h2 class="wp-block-heading"><strong><span style="text-decoration: underline;">A needed change</span></strong></h2>
+## A_needed_change
  
 
  
