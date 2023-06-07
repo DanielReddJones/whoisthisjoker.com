@@ -1,6 +1,7 @@
 languageCode = "en"
 DefaultContentLanguage = "en" # Change this to change the site's language
 theme = "hugo.386"
+title = "c:/"
 preserveTaxonomyNames = true
 
 [params]
@@ -20,7 +21,7 @@ copyrightname = "Daniel Jones"
 copyrighturl = "https://danielreddjones.com"
 
 # Show the "built on Hugo" disclaimer
-showhugo = true
+showhugo = false
 
 # Urls for social networks
 linkedin = "https://linkedin.com"
@@ -39,7 +40,7 @@ loadonepass = false
 name = "Daniel Jones"
 
 # The url to use as link in the copyright name in the footer. Leave empty to use none.
-url = "danielreddjones.com"
+url = "https://danielreddjones.com"
 
 # Text to go before copyright information
 prefix = "[hugo.386 theme by Max le Fou](https://gitlab.com/maxlefou/hugo.386)"
@@ -52,13 +53,13 @@ prefix = "[hugo.386 theme by Max le Fou](https://gitlab.com/maxlefou/hugo.386)"
 [[menu.main]]
 identifier = "about" # An unique identifier for the button
 name = "./about"       # A display name for the button
-url = "/about/about.md"      # The path to the content. It can lead to a single page (like here)
+url = "/about/about/"      # The path to the content. It can lead to a single page (like here)
 weight = 10          # A number to order the buttons in the navbar
 
 [[menu.main]]
 identifier = "posts"
 name = "./posts"
-url = "/post/"       # The path can lead to a content folder too.
+url = "/posts/"       # The path can lead to a content folder too.
 weight = 20
 
 [taxonomies]
