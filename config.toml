@@ -6,7 +6,7 @@ preserveTaxonomyNames = true
 
 [params]
 # The name to display as main title in the home page
-mainpagetitle = "whoisthisjoker"
+mainpagetitle = "whoisthisjoker.com"
 
 # The subtitle to display under the title in the home page
 mainpagesubtitle = "Welcome to my lair!"
@@ -24,8 +24,9 @@ copyrighturl = "https://danielreddjones.com"
 showhugo = false
 
 # Urls for social networks
-linkedin = "https://linkedin.com"
-github = "https://github.com"
+linkedin = "https://www.linkedin.com/in/danjoredd/"
+github = "https://github.com/DanielReddJones"
+portfolio = "https://danielreddjones.com"
 
 # Enables or disables the loading animations. false activates them. Default is false.
 loadfastload = false
@@ -39,11 +40,13 @@ loadonepass = false
 [params.copyright]
 name = "Daniel Jones"
 
+
+postslist = "/posts/"
 # The url to use as link in the copyright name in the footer. Leave empty to use none.
 url = "https://danielreddjones.com"
 
 # Text to go before copyright information
-prefix = "[hugo.386 theme by Max le Fou](https://gitlab.com/maxlefou/hugo.386)"
+# prefix = "[hugo.386 theme by Max le Fou](https://gitlab.com/maxlefou/hugo.386)"
 
 # Text to go between copyright and hugo disclaimer (if enabled)
 
