@@ -6,7 +6,6 @@ other = "Posts"
 
 [postslist]
 other = "Blog posts"
-posts = "/posts/"
 
 [categories]
 other = "Categories"
