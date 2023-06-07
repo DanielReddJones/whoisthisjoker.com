@@ -10,7 +10,7 @@ categories: [
 ]
 ---
 
-# Thoughts_on_Apples_viewfinder
+
 
 WWDC recently happened, and overall it was mostly boring. They announced widgets four separate times, a Snoopy watchface for the Apple Watch, and you can now set multiple alarms for Iphone. Neat.
 
