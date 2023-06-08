@@ -12,7 +12,7 @@ mainpagetitle = "whoisthisjoker.com"
 mainpagesubtitle = "Welcome to my lair!"
 
 # The description of your website. It will be displayed in the home page
-mainpagedesc = "This is my little blog where I talk about projects I am doing, thoughts on current events, or retrospectives on technology. I am still figuring out HUGO, so please be patient. Thanks!"
+mainpagedesc = "This is my little blog where I talk about projects I am doing, thoughts on current events, or retrospectives on technology. Old computers are cool."
 
 # The name to display in the copyright section in the footer
 copyrightname = "Daniel Jones"

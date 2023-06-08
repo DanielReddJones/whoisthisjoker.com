@@ -3,7 +3,7 @@ title: "Why_I_switched_to_Linux"
 date: 2023-05-19T17:09:33-05:00
 draft: false
 tags: [
-Linux, privacy, Microsoft,]
+"Linux", "privacy", "Microsoft",]
 categories: [
 Technology,
 ]
