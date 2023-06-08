@@ -2,6 +2,10 @@
 title: "Bibliofile"
 date: 2023-06-07T23:22:50-05:00
 draft: false
+tags: [
+"Rust", "programming", "cars",]
+categories: ["personal_projects", "personal",]
+    
 ---
 
 
