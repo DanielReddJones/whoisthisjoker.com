@@ -18,7 +18,7 @@ mainpagedesc = "This is my little blog where I talk about projects I am doing, t
 copyrightname = "Daniel Jones"
 
 # The url to use as link in the copyright name in the footer. Leave empty to use none.
-copyrighturl = "https://danielreddjones.com"
+#copyrighturl = "https://danielreddjones.com"
 
 # Show the "built on Hugo" disclaimer
 showhugo = false
