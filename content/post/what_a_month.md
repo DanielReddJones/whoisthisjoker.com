@@ -1,6 +1,7 @@
 ---
 title: "What_a_month"
 date: 2023-06-28T14:31:17-05:00
+author: "Daniel Jones"
 tags: [
   "Rust", "programming", "cars",]
 categories: ["personal_projects", "personal",]
