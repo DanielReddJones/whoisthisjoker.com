@@ -27,6 +27,7 @@ showhugo = false
 linkedin = "https://www.linkedin.com/in/danjoredd/"
 github = "https://github.com/DanielReddJones"
 portfolio = "https://danielreddjones.com"
+rss = "https://www.whoisthisjoker.com/index.xml"
 
 # Enables or disables the loading animations. false activates them. Default is false.
 loadfastload = false
@@ -64,6 +65,8 @@ identifier = "posts"
 name = "./posts"
 url = "/post/"       # The path can lead to a content folder too.
 weight = 20
+
+
 
 [taxonomies]
 category = "categories"

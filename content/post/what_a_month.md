@@ -9,7 +9,7 @@ categories: ["personal_projects", "personal",]
 
 ## Storms, broken cars, power outages, and more
 
-This month has been absolutely insane. At the beginning, my car broke down. Twice. Once it wouldn't crank, the second time the engine nearly blew. Both ties it turned out to be a minor fix that the mechanic barely even charged for.
+This month has been absolutely insane. At the beginning, my car broke down. Twice. Once it wouldn't crank, the second time the engine nearly blew. Both times it turned out to be a minor fix that the mechanic barely even charged for.
 
 Then once all my car issues were resolved, stormageddon happened and took out the power in parts of Texas, Louisiana, and Arkansas. I was unfortunate enough to be caught in that storm.
 
