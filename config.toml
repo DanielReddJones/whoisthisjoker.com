@@ -25,7 +25,7 @@ showhugo = false
 
 # Urls for social networks
 linkedin = "https://www.linkedin.com/in/danjoredd/"
-github = "https://github.com/DanielReddJones"
+git = "https://git.whoisthisjoker.com/explore/repos"
 portfolio = "https://danielreddjones.com"
 rss = "https://www.whoisthisjoker.com/post/index.xml"
 
@@ -65,6 +65,21 @@ identifier = "posts"
 name = "./posts"
 url = "/post/"       # The path can lead to a content folder too.
 weight = 20
+
+[[menu.main]]
+identifier = "./repo"
+name = "./repo"
+url = "https://git.whoisthisjoker.com/explore/repos"       # The path can lead to a content folder too.
+weight = 20
+
+[[menu.main]]
+identifier = "./links"
+name = "./fun_links"
+url = "/jokerlinks/"       # The path can lead to a content folder too.
+weight = 20
+
+
+
 
 
 
