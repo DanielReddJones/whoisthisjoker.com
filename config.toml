@@ -70,13 +70,13 @@ weight = 20
 identifier = "./repo"
 name = "./repo"
 url = "https://git.whoisthisjoker.com/explore/repos"       # The path can lead to a content folder too.
-weight = 20
+weight = 50
 
 [[menu.main]]
 identifier = "./links"
 name = "./fun_links"
 url = "/jokerlinks/"       # The path can lead to a content folder too.
-weight = 20
+weight = 40
 
 
 
