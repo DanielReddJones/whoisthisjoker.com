@@ -36,7 +36,7 @@ fn my_func() {
 ```
 Line one initialized the terminal space you will be using. TermHeight sets how high you want the terminal to be. The second line clears the screen for you. The third line tells TUIKit what text you want to print, and where to print it. Line four is where TUIKit takes everything you have given it and displays it.
 
-Please note that before today, I have never used it before, so this may not be the best way to do things. The documentation on this framework is sparce so this may not be the best way to do it. I am iffy on setting the TUI screen to 90% of the terminal space, as I am sure there has to be a module included in this crate that lets it take the whole screen. I will figure it out.
+Please note that before today, I have never used it before, so this may not be the best way to do things. The documentation on this framework is sparce so this may not be the best way to do it. I am iffy on setting the TUI screen to 90% of the terminal space, as I am sure there has to be a module included in this crate that lets it take the whole screen. When I set it to 100 it panics and crashes. I will figure it out.
 
 ## Movin'_git
 
