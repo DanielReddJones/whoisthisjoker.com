@@ -10,7 +10,7 @@ This is a non-comprehensive list of games and demos that I have found on sites l
 
 [NightDrive](https://incoherency.co.uk/nightdrive/) - This demo makes you feel like a kid on a late night road trip. Few better feelings.
 
-[excel 97 Easter Egg](https://rezmason.github.io/excel_97_egg/?o=src&l=63,1) - This demo is a recreation/port of the Excel 97 Easter egg that let you freely explore this randomly generated world and view the credits of the people who worked on it. The guy that made this also made some other cool demos, but I liked this one the best.
+[excel 97 Easter Egg](https://rezmason.github.io/excel_97_egg/?o=src&l=63,1) - This demo is a recreation/port of the Excel 97 Easter egg that let you freely explore this randomly generated world and view the credits of the people who worked on it. [The guy that made this](https://www.rezmason.net/projects.html) also made some other cool demos, but I liked this one the best.
 
 [Sandtrix](https://mslivo.itch.io/sandtrix) - Its Tetris, but with sand. It's pretty cool. Check it out.
 
