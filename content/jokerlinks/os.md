@@ -1,5 +1,5 @@
 ---
-title: "alternative_operating_systems"
+title: "Alternative_Operating_Systems"
 date: 2023-07-19
 ---
 
