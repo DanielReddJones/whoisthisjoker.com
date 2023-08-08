@@ -3,7 +3,7 @@ title: "Browser/fake operating systems"
 date: 2023-07-19
 ---
 
-Some of these are real operating systems, som of them are not. They are all useable in the browser.
+Some of these are real operating systems, some of them are not. They are all useable in the browser.
 
 [Windows 93](https://www.windows93.net/) - Miss Windows 95? This one is scarily similar, but...in the browser. It has a lot of "programs" that are fun to play around with.
 
