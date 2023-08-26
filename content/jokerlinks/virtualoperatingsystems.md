@@ -19,6 +19,6 @@ Some of these are real operating systems, some of them are not. They are all use
 
 [OS.JS](https://www.os-js.org/) - This is more of a platform for making your own virtual desktop than an actual virtual Desktop, but they have a live demonstration thats fun to play with!
 
-[daedalOS](https://dustinbrett.com/) - This virtual OS is the personal site of Dustin Brett. Has an app for his blog, his videos, his music, etc. He linked it to me over HackerNews and while its not the most feature-rich, I thought it was neat enough to list here.
+[daedalOS](https://dustinbrett.com/) - This virtual OS is the personal site of Dustin Brett. Has an app for his blog, his videos, his music, etc. He linked it to me over HackerNews and while its not the most customizable, I thought it was pretty cool.
 
 [Windows Really Good Edition](https://www.newgrounds.com/portal/view/27549) - This is more of a joke, making fun of Windows ME. However, its the oldest "virtual OS" that I could find, having been developed in 2001. It runs in Flash and runs with Newgrounds Flash compatibility layer, *Ruffle.* One quick warning, if you have epilepsy clicking paint.exe or Windows Media Player is a bad idea.
