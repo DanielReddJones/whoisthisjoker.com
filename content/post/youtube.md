@@ -7,7 +7,7 @@ categories: [
   "customization"]
 ---
 
-YouTube ain't great anymore. It used to be THE way to watch online video. it had lots of features that I loved, recommended me a lot of videos that I enjoyed, and was generally pleasant to use.
+YouTube ain't great anymore. It used to be THE way to watch online video. It had lots of features that I loved, recommended me a lot of videos that I enjoyed, and was generally pleasant to use.
 
 That has changed in the past few years. The front page, which used to be to show you your subscriptions, now serves to show you TikTok re-uploads. Tries to get you on the infinite scrolling hamster wheel. 
 Wants to steal hours of your day away from you while taking away meaningful features. In this article, I seek to show you some browser extensions that "bring back the old YouTube"
