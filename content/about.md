@@ -8,7 +8,7 @@ I graduated from LeTourneau University in December 2020 at the height of the Cov
 
 At the moment I am working on an ebook reader called Bibliofile, but once that is done I have some other projects in mind that I want to do.
 
-I do not use much social media outside of Discord, LinkedIn, and HackerNews, but if you want to reach me for any reason,  you can contact me at daniel@whoisthisjoker.com. Please encrypt the email using my public PGP key on my [signature page](/signature.txt). I will not answer any unencrypted emails.
+I do not use much social media outside of Discord, LinkedIn, and HackerNews, but if you want to reach me for any reason,  you can contact me at daniel@whoisthisjoker.com. Please encrypt the email using my public PGP key on my [signature page](/signature.txt). I will not answer any unencrypted emails, as this is the best way to ensure that you are not a spammer. Also, please give me your public PGP so that I can message you back with encryption.
 
 If you do not know how to do this, follow these instructions: https://www.youtube.com/watch?v=lAblt1Qt_ng
 
