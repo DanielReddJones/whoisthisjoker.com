@@ -26,7 +26,7 @@ showhugo = false
 # Urls for social networks
 linkedin = "https://www.linkedin.com/in/danjoredd/"
 git = "https://git.whoisthisjoker.com/explore/repos"
-portfolio = "https://danielreddjones.com"
+Resume = "https://danielreddjones.com"
 rss = "https://www.whoisthisjoker.com/post/index.xml"
 youtube = "https://www.youtube.com/@danjoredd"
 
@@ -79,6 +79,8 @@ identifier = "./links"
 name = "./fun_links"
 url = "/jokerlinks/"       # The path can lead to a content folder too.
 weight = 40
+
+
 
 
 
