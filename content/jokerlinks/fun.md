@@ -18,3 +18,7 @@ This is a non-comprehensive list of games and demos that I have found on sites l
 This is neither a game nor a demo, but a picture. It is an extremely large and detailed fantasy map that I could look at for hours. Made in 1918 and designed by Bernard Sleigh. DavidRumsey.com as a whole is a pretty neat map archive site that I want more people to know about.
 
 [Open source Game Clones](https://osgameclones.com/) - Want gaming but hate "absolutely proprietary?" osgameclones is a pretty long list of games that have been open sourced, along with download links and repos.
+
+[POOM](https://freds72.itch.io/poom) - This game is a version of DOOM for the PICO-8 fantasy console. Its impressive, given the limitations of the PICO-8. The controls are odd, though. WASD? Who ever heard of WASD? We use ESDF in this household! I tried playing with the classic doom controls as well...arrow keys + ctrl to shoot. For some reason shoot is X instead of CTRL. Also the levels are vastly redesigned, so its a new game rather than a source port. 
+
+Weird controls aside, POOM comes highly recommended by me. It's free, you can play it in the web browser, and its fun. Try it out!
