@@ -1,5 +1,5 @@
 ---
-title: "What_a_month"
+title: "What a Month"
 date: 2023-06-28T14:31:17-05:00
 author: "Daniel Jones"
 tags: [

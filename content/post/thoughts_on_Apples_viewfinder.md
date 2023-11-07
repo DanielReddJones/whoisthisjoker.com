@@ -1,5 +1,5 @@
 ---
-title: "Thoughts_on_Apples_viewfinder"
+title: "Thoughts on Apples viewfinder"
 date: 2023-06-07T16:06:44-05:00
 draft: false
 tags: [

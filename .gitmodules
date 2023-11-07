@@ -4,3 +4,9 @@
 [submodule "whoisthisjoker/themes/hugo.386"]
 	path = whoisthisjoker/themes/hugo.386
 	url = https://gitlab.com/jmfergeau/hugo.386
+[submodule "themes/hugo-theme-console"]
+	path = themes/hugo-theme-console
+	url = https://github.com/mrmierzejewski/hugo-theme-console.git
+[submodule "themes/cupper-hugo-theme"]
+	path = themes/cupper-hugo-theme
+	url = https://github.com/zwbetz-gh/cupper-hugo-theme.git

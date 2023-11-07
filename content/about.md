@@ -8,16 +8,4 @@ I graduated from LeTourneau University in December 2020 at the height of the Cov
 
 At the moment I am working on an ebook reader called Bibliofile, but once that is done I have some other projects in mind that I want to do.
 
-I do not use much social media outside of Discord, LinkedIn, and HackerNews, but if you want to reach me for any reason,  you can contact me at daniel@whoisthisjoker.com. Please encrypt the email using my public PGP key on my [signature page](/signature.txt). I will not answer any unencrypted emails, as this is the best way to ensure that you are not a spammer. Also, please give me your public PGP so that I can message you back with encryption.
-
-If you do not know how to do this, follow these instructions: https://www.youtube.com/watch?v=lAblt1Qt_ng
-
-If you want to know about my political/entertainment views or get a better sense of my personality, here is my geek code: 
-
-GCS/IT d+ s++: a- C++ UBL*$ P++$ L+++ E- W++ N++ !o w+ !O M- !V PS+ PE+ Y+ PGP t+ 5++ X+++ R+ tv+ b+++ DI-- D++ G e++ h+
-
-
-
-The only encoder that I could find is for v 3.1, and I never got around to encoding it by hand. If you want to understand what this means, just plop it into [this decoder](https://www.joereiss.net/geek/ungeek.html) or encode your own [here](https://www.joereiss.net/geek/geek.html).
-
-This blog is ran with Hugo and GitHub pages. The theme is [hugo.386](https://themes.gohugo.io/themes/hugo.386/), written by JM Fergeau.
+I do not use much social media outside of Discord, LinkedIn, and HackerNews, but if you want to reach me for any reason,  you can contact me at daniel@whoisthisjoker.com.
