@@ -13,13 +13,12 @@
 		{{- end -}}
 		<nav class="nav social">
 			<ul class="flat">
-				{{- range $index, $key := .Site.Params.Social -}}
-					<li><a href="{{ $key.url }}" title="{{ $key.name }}"><i data-feather="{{ $key.icon }}"></i></a></li>
-				{{- end -}}
 
-				{{- if or (eq .Site.Params.mode "auto") (eq .Site.Params.mode "dark") -}}
-                			<span class="scheme-toggle"><a href="#" id="scheme-toggle"></a>
-				{{- end -}}
+					<li><a href="https://www.linkedin.com/in/danjoredd/" ><img src="https://img.icons8.com/ios/25/linkedin" alt="LinkedIn"></a></li>
+					<li><a href="https://whoisthisjoker.com/post/index.xml" > <img src="https://img.icons8.com/ios/25/rss.png" alt="RSS feed"></a></li>
+					<li><a href="https://git.whoisthisjoker.com" > <img src="https://img.icons8.com/ios/25/git.png" alt="Git"></a></li>
+					<li><a href="https://danielreddjones.com" > <img src="https://img.icons8.com/ios/25/portfolio.png" alt="Git"></a></li>
+
 			</ul>
 		</nav>
 	</div>

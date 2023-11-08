@@ -73,20 +73,6 @@ name = "Tags & Stats"
 url = "/tags"
 weight = 5
 
-[[params.social]]
-name = "My Git repository"
-icon = "git-branch"
-url = "https://git.whoisthisjoker.com"
-
-[[params.social]]
-name = "linkedin"
-icon = "linkedin"
-url = "https://www.linkedin.com/in/danjoredd/"
-
-[[params.social]]
-name = "RSS"
-icon = "rss"
-url = "/post/index.xml"
 
 [taxonomies]
    tag = "tags"
