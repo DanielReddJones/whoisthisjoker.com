@@ -15,7 +15,7 @@ In 2015 Windows 10 was released. Two years earlier I had gained a Windows 8.1 la
 
 
  
-## Dashed_expectations
+## Dashed expectations
 
 
  
@@ -27,7 +27,7 @@ I finished one of my essays and hit save, then "x'ed" it out and planned on edit
  
 
  
-## A_needed_change
+## A needed change
  
 
  
@@ -39,7 +39,7 @@ The rest is history. Tinkering with computers got me into programming. That led 
  
 
  
-## Microsoft_weirdness
+## Microsoft weirdness
  
 
  
@@ -51,7 +51,7 @@ So my question is this...if Fedora...a much smaller company than Microsoft I mig
  
 
  
-## Why_I_stick_with_Linux
+## Why I stick with Linux
  
 
  

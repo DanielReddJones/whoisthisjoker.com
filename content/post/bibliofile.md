@@ -10,7 +10,7 @@ categories: ["personal_projects", "personal",]
 
 
 
-## Bibliofile_the_new_ebook_reader
+## Bibliofile: the new ebook reader
 So, in December, I wrote out a plan to write 10 medium sized programs in order to get myself enthusiastic about programming again.
 Some very unfortunate events that took place in January ensured that this would not happen, as there is literally not enough time in the year to do that after three months of grieving.
 
