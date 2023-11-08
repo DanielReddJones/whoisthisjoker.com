@@ -1,7 +1,7 @@
 baseURL = "http://whoisthisjoker.com"
 languageCode = "en-us"
 title = "C:/WhoIsThisJoker"
-theme = "ink-free"
+theme = "my-theme"
 paginate = 5
 
 copyright = "©Daniel Redd Jones"
