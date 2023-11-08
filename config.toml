@@ -20,7 +20,7 @@ copyright = "©Daniel Redd Jones"
 	featherIconsCDN = false
 
 	# Site color - dark/light/auto
-	mode = "auto"
+	mode = "light"
 
 	# Enable a table of contents:
 	# Either "static"/true, "floating", "both", or "none" (default: static)
