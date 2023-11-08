@@ -11,4 +11,4 @@ I do not use much social media outside of Discord, LinkedIn, and HackerNews, but
 
 If you want to know about my political/entertainment views or get a better sense of my personality, here is my geek code: 
 
-GCS/IT d+ s++: a- C++ UBL*$ P++$ L+++ E- W++ N++ !o w+ !O M- !V PS+ PE+ Y+ PGP t+ 5++ X+++ R+ tv+ b+++ DI-- D++ G e++ h+
+GCS/IT d+ s++: a- C++ UBL*$ P++$ L+++ E- W++ N++ !o w+ !O M- !V PS+ PE+ Y+ PGP t+ 5++ X+++ R+ tv+ b+++ DI-- D++ G e++ h+ 
