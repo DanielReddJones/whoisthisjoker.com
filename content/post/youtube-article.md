@@ -1,5 +1,5 @@
 ---
-title: "How To Bring Back Old YouTube"
+title: "How to bring back old YouTube"
 date: 2023-08-31
 tags: [
   "YouTube", "Social Media", "Big Tech"]

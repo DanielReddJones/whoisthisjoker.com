@@ -1,6 +1,5 @@
 ---
 title: "Browser/fake operating systems"
-date: 2023-07-19
 ---
 
 Some of these are real operating systems, some of them are not. They are all useable in the browser.

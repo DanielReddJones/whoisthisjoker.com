@@ -1,5 +1,5 @@
 ---
-title: "Programming For Fun vs Programming For Work"
+title: "Programming for fun vs programming for work"
 date: 2022-12-04T18:01:58-05:00
 draft: false
 tags: [

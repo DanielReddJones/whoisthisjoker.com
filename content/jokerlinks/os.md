@@ -1,6 +1,6 @@
 ---
-title: "Alternative_Operating_Systems"
-date: 2023-07-19
+title: "Alternative Operating Systems"
+
 ---
 
 The purpose of this page is to highlight some alternative operating systems that you may have overlooked. for practical reasons, I typically avoid posting BSD or Linux here unless it's really strange.

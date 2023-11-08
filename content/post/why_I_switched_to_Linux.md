@@ -1,5 +1,5 @@
 ---
-title: "Why I Switched to Linux"
+title: "Why I switched to Linux"
 date: 2023-05-19T17:09:33-05:00
 draft: false
 tags: [

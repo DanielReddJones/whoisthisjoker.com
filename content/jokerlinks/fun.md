@@ -1,6 +1,5 @@
 ---
-title: Fun_And_Games
-date: 2023-07-19
+title: Fun And Games
 ---
 
 This is a non-comprehensive list of games and demos that I have found on sites like HackerNews and Discord. It will be updated periodically, so feel free to check back occasionally. If any websites are broken, let me know and I will fix/remove the link.
@@ -19,6 +18,6 @@ This is neither a game nor a demo, but a picture. It is an extremely large and d
 
 [Open source Game Clones](https://osgameclones.com/) - Want gaming but hate "absolutely proprietary?" osgameclones is a pretty long list of games that have been open sourced, along with download links and repos.
 
-[POOM](https://freds72.itch.io/poom) - This game is a version of DOOM for the PICO-8 fantasy console. Its impressive, given the limitations of the PICO-8. The controls are odd, though. WASD? Who ever heard of WASD? We use ESDF in this household! I tried playing with the classic doom controls as well...arrow keys + ctrl to shoot. For some reason shoot is X instead of CTRL. Also the levels are vastly redesigned, so its a new game rather than a source port. 
+[POOM](https://freds72.itch.io/poom) - This game is a version of DOOM for the PICO-8 fantasy console. Its impressive, given the limitations of the PICO-8. The levels are not the same, but it is a good time all around
 
-Weird controls aside, POOM comes highly recommended by me. It's free, you can play it in the web browser, and its fun. Try it out!
+[Squishy Earth](www.byronknoll.com/earth.html) - By Byron Knoll. Its a squishy earth. Have fun!

@@ -1,5 +1,5 @@
 ---
-title: "AmigaOS, C, and Lifting"
+title: "AmigaOS C and lifting"
 date: 2023-02-04T18:18:25-05:00
 draft: false
 ---

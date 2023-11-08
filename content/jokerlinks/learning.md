@@ -1,6 +1,5 @@
 ---
-title: "Learning_Resources"
-date: 2023-07-19
+title: "Learning Resources"
 ---
 This page showcases some interesting learning resources I have found over the internet. I have not gone through every single one, but I do sometimes watch/read them in my downtime to expand my skills.
 

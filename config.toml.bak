@@ -1,120 +1,121 @@
-languageCode = "en"
-DefaultContentLanguage = "en" # Change this to change the site's language
-theme = "hugo.386"
-title = "c:/whoisthisjoker"
-preserveTaxonomyNames = true
+baseURL = "https://Whoisthisjoker.com"
+languageCode = "en-us"
+title = "Whoisthisjoker"
+theme = "ink-free"
+paginate = 5
+
+copyright = "©Daniel Redd Jones"
+# Demo only
+#ignoreErrors = ["error-missing-instagram-accesstoken"]
+
+[permalinks]
+  posts = "/:year/:month/:title"
 
 [params]
-# The name to display as main title in the home page
-mainpagetitle = "whoisthisjoker.com"
+	subtitle = "Are lobsters scorpion mermaids?"
 
-# The subtitle to display under the title in the home page
-mainpagesubtitle = "Welcome to my lair!"
+	# Optional 64x64 avatar image.
+	# avatar = 
 
-# The description of your website. It will be displayed in the home page
-mainpagedesc = "This is my little blog where I talk about projects I am doing, thoughts on current events, or retrospectives on technology. Old computers are cool."
+	featherIconsCDN = false
 
-# The name to display in the copyright section in the footer
-copyrightname = "Daniel Jones"
+	# Site color - dark/light/auto
+	mode = "light"
 
-# The url to use as link in the copyright name in the footer. Leave empty to use none.
-#copyrighturl = "https://danielreddjones.com"
+	# Enable a table of contents:
+	# Either "static"/true, "floating", "both", or "none" (default: static)
+	# The floating TOC dissapears on mobile and adds 200px vertical space
+	toc = "both"
+	# Whether to truncate everything but H1/H2 headings if the last element in a TOC isn't visible. Enabled by default
+	enableTocTrunate = true
 
-# Show the "built on Hugo" disclaimer
-showhugo = false
+	# Max tags
+	maxTags = 7
 
-# Urls for social networks
-linkedin = "https://www.linkedin.com/in/danjoredd/"
-git = "https://git.whoisthisjoker.com/explore/repos"
-Resume = "https://danielreddjones.com"
-rss = "https://www.whoisthisjoker.com/post/index.xml"
-youtube = "https://www.youtube.com/@danjoredd"
+	# Define words per minute to approximate reading time
+	wpm = 250
 
+	
+	footers = [ 
+		"Now may the God of peace Himself sanctify you entirely; and may your spirit and soul and body be kept complete, without blame at the coming of our Lord Jesus Christ. ~ 1 Thessalonians 5:23"
+	]
 
-# Enables or disables the loading animations. false activates them. Default is false.
-loadfastload = false
+	# Github base url
+	# github = "https://git.Whoisthisjoker.com"
 
-# Sets the speed for the page loading effect. Default is 1.0.
-loadspeedfactor = 3.0
+	# For statistics, we can compare the total word count against a book of your choice
+	statisticsEnabled = true
+	referenceBookWords = 56444.0
+	referenceBook = "The Lion The Witch and the Wardrobe"
+	referenceAuthor = "CS Lewis"
 
-# Enables or disables the second flyby cursor. Default is false.
-loadonepass = false
+# Nav.
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
 
-[params.copyright]
-name = "Daniel Jones"
+[[menu.main]]
+name = "All posts"
+url = "/post"
+weight = 2
 
+[[menu.main]]
+name = "Fun Links"
+url = "/jokerlinks"
+weight = 3
 
+[[menu.main]]
+name = "About"
+url = "/about"
+weight = 4
 
-# The url to use as link in the copyright name in the footer. Leave empty to use none.
+[[menu.main]]
+name = "Tags & Stats"
+url = "/tags"
+weight = 5
+
+[[menu.main]]
+name = "CV"
 url = "https://danielreddjones.com"
+weight = 6
 
-# Text to go before copyright information
-# prefix = "[hugo.386 theme by Max le Fou](https://gitlab.com/maxlefou/hugo.386)"
+[[params.social]]
+name = "My Git repo"
+icon = "code"
+url = "https://git.Whoisthisjoker.com"
 
-# Text to go between copyright and hugo disclaimer (if enabled)
+[[params.social]]
+name = "youtube"
+icon = "youtube"
+url = "https://www.youtube.com/channel/UCH1Uuy3T0McxoKEAvfxbnyA"
 
+[[params.social]]
+name = "RSS"
+icon = "rss"
+url = "/post/index.xml"
 
-[menu]
-# This displays buttons in the navbar to access your contents
-[[menu.main]]
-identifier = "about" # An unique identifier for the button
-name = "./about"       # A display name for the button
-url = "/about/"      # The path to the content. It can lead to a single page (like here)
-weight = 10          # A number to order the buttons in the navbar
-
-[[menu.main]]
-identifier = "posts"
-name = "./posts"
-url = "/post/"       # The path can lead to a content folder too.
-weight = 20
-
-[[menu.main]]
-identifier = "./repo"
-name = "./repo"
-url = "https://git.whoisthisjoker.com/explore/repos"       # The path can lead to a content folder too.
-weight = 50
-
-[[menu.main]]
-identifier = "./links"
-name = "./fun_links"
-url = "/jokerlinks/"       # The path can lead to a content folder too.
-weight = 40
-
-
-
-
-
-
-
+[[params.social]]
+name = "Linkedin"
+icon = "linkedin"
+url = "https://www.linkedin.com/in/danjoredd/"
 
 [taxonomies]
-category = "categories"
-tag = "tags"
-#postslist = "Blog posts"
+   tag = "tags"
 
-[privacy]
+[markup]
+  [markup.highlight]
+    codeFences = true
+    guessSyntax = false
+    hl_Lines = ""
+    lineNoStart = 1
+    lineNos = true
+    lineNumbersInTable = true
+    noClasses = true
+    style = "github"
+    tabWidth = 4
 
-[privacy.vimeo]
-disabled = false
-simple = true
-
-[privacy.twitter]
-disabled = false
-enableDNT = true
-simple = true
-
-[privacy.instagram]
-disabled = false
-simple = true
-
-[privacy.youtube]
-disabled = false
-privacyEnhanced = true
-
-[services]
-
-[services.instagram]
-disableInlineCSS = true
-
-[services.twitter]
-disableInlineCSS = true
+  [markup.tableOfContents]
+    endLevel = 3
+    ordered = true
+    startLevel = 2 
