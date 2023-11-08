@@ -70,7 +70,7 @@ weight = 4
 
 [[menu.main]]
 name = "Code"
-url = "git.whoisthisjoker.com"
+url = "https://git.whoisthisjoker.com/Daniel"
 weight = 5
 
 [[menu.main]]
