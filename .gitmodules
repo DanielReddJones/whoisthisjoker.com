@@ -1,15 +1,3 @@
-[submodule "themes/hugo.386"]
-	path = themes/hugo.386
-	url = https://gitlab.com/jmfergeau/hugo.386
-[submodule "whoisthisjoker/themes/hugo.386"]
-	path = whoisthisjoker/themes/hugo.386
-	url = https://gitlab.com/jmfergeau/hugo.386
-[submodule "themes/themes/vno-hugo"]
-	path = themes/themes/vno-hugo
-	url = https://github.com/xslingcn/vno-hugo.git
-[submodule "themes/potato-dark"]
-	path = themes/potato-dark
-	url = https://github.com/surajmandalcell/potato-dark
 [submodule "themes/ink-free"]
 	path = themes/ink-free
 	url = https://github.com/chollinger93/ink-free.git
