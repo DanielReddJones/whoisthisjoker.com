@@ -28,7 +28,7 @@
 <div class="back">
     {{ if isset .Site.Params "footers" }}
     {{ if ne .Type "page" }}
-    Next time, we'll talk about <i>"{{ range .Site.Params.footers | shuffle | first 1 }}{{ .
+    <i>"{{ range .Site.Params.footers | shuffle | first 1 }}{{ .
         }}"</i>{{ end
     }}
     {{ end }}

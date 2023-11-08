@@ -69,10 +69,19 @@ url = "/about"
 weight = 4
 
 [[menu.main]]
-name = "Tags & Stats"
-url = "/tags"
+name = "Code"
+url = "git.whoisthisjoker.com"
 weight = 5
 
+[[menu.main]]
+name = "RSS"
+url = "/post/index.xml"
+weight = 6
+
+[[menu.main]]
+name = "Tags & Stats"
+url = "/tags"
+weight = 7
 
 [taxonomies]
    tag = "tags"
