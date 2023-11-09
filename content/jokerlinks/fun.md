@@ -20,4 +20,4 @@ This is neither a game nor a demo, but a picture. It is an extremely large and d
 
 [POOM](https://freds72.itch.io/poom) - This game is a version of DOOM for the PICO-8 fantasy console. Its impressive, given the limitations of the PICO-8. The levels are not the same, but it is a good time all around
 
-[Squishy Earth](www.byronknoll.com/earth.html) - By Byron Knoll. Its a squishy earth. Have fun!
+[Squishy Earth](https://byronknoll.com/earth.html) - By Byron Knoll. It's a squishy earth. Have fun!
