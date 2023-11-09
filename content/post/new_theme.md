@@ -41,9 +41,9 @@ Also, Bibliofile is nearly complete. I figured out how to go about page turning,
 
 I ditched TUIkit. It had only one example, there was almost no documentation anywhere, and after several months trying to work with it I gave up and switched to Cursive, with Termion as the back end. 
 
-I chose this crate because it not only has LOTS of documentation...like really, a lot...and I can choose several backends. The default backend was ncurses which...yuck. If I have to run Rust in unsafe mode, I might as well use C instead. No point in dealing with the frustrations of Rust if Im just going to use an unsafe library anyway.
+I chose this crate because it not only has LOTS of documentation...like really, a lot...and I can choose several backends. The default backend was ncurses which...yuck. NCurses, if you are unfamiliar with it, is extremely unsafe to use and I have to run my functions in unsafe mode for it to work. If I have to run Rust in unsafe mode, I might as well use C instead. No point in dealing with the frustrations of Rust if Im just going to use an unsafe library anyway.
 
-Termion had lots of documentation itself in addition to Cursive's documentation.
+Termion had lots of documentation itself in addition to Cursive's documentation which is why I chose it as the backend instead of the other options. Plus I don't expect that any end-users will have to install anything themselves to get it running, which is not the case for Ncurses. With Ncurses, you have to have it installed to have any programs using it run. Not so with Termion. 
 
 It looks like a DOS program, which is good because that's what I wanted. 
 
