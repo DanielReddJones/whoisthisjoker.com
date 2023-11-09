@@ -1,7 +1,7 @@
 ---
 title: "New theme added + some announcements"
 date: 2023-11-08
-draft: true
+draft: false
 tags: [
 "theme","hugo"]
 ---
@@ -66,9 +66,8 @@ Current TODOs:
 Once it is done:
 
  - package it for Debian
- - set up download website for the tarball version(domain bibliofiles.net secured)
+ - set up download website for the tarball and Windows version(domain bibliofiles.net secured)
  - package it for Arch
  - package it for flatpak
- - Compile for windows
 
 Minimum viable product is nearly complete, but I have a long way to go, even after the programming is done.
