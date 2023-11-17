@@ -12,16 +12,16 @@ So originally I used [hugo.386](https://themes.gohugo.io/themes/hugo.386/) as my
 
 for posterity's sake, this is what it looked like:
 
-![old site](/images/oldsite.png)
+![old site](/images/new_theme/oldsite.png)
 
 
 As awesome as it was, it did NOT play well with pictures. At all. Case in point: My youtube article. One of the extentions has this logo:
 
-![good youtube logo](/images/thumb.jpg)
+![good youtube logo](/images/new_theme/thumb.jpg)
 
 With the old theme, that same logo looked like this:
 
-![bad youtube logo](/images/bad_color.png)
+![bad youtube logo](/images/new_theme/bad_color.png)
 
 As you can see, the difference is night and day. 386 was my favorite look for a website EVER...but I cannot deal with the problems related to the images. These are simple examples, but when a picture that was more complex was included it always looked downright unintelligible. 
 
@@ -51,7 +51,7 @@ However, a major reason I started this program was because terminals make excell
 
 Here is a sneak-peak of the program:
 
-![Bibliofile](/images/bibliofile-sneak-peak.png)
+![Bibliofile](/images/new_theme/bibliofile-sneak-peak.png)
 
 I hope to finish it by end of year, but life comes at you fast and things have gotten a bit wild in my life lately. Almost as much as the beginning of the year was. I am trying to work on it on the weekends and that system seems to be working for me. Needless to say, with how long I have been working on this, I am READY for this project to be completed.
 

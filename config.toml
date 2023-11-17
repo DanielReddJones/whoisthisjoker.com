@@ -79,9 +79,14 @@ url = "/post/index.xml"
 weight = 6
 
 [[menu.main]]
+name = "CV"
+url = "https://danielreddjones.com"
+weight = 7
+
+[[menu.main]]
 name = "Tags & Stats"
 url = "/tags"
-weight = 7
+weight = 8
 
 [taxonomies]
    tag = "tags"
