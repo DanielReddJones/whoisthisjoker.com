@@ -1,3 +1,7 @@
+---
+title: "My favorite youtubers"
+draft: false
+---
 This is a list of YouTubers that I enjoy watching, both technical and non-technical. This is not a comprehensive list, as my subscription list is around 300 channels long. Also this list is subject to change...youtube is a messy website filled with messy people. Controversies happen, and people are outed as terrible. May add or remove them as needed.
 
 # technology youtubers
