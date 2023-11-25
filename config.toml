@@ -84,9 +84,12 @@ url = "https://danielreddjones.com"
 weight = 7
 
 [[menu.main]]
-name = "Tags & Stats"
-url = "/tags"
+name = "Projects"
+url = "/projects"
 weight = 8
+
+
+
 
 [taxonomies]
    tag = "tags"
