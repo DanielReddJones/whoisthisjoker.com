@@ -58,24 +58,24 @@ After the plate is removed, unplug the battery. In the interest of total transpa
 
 
 
-# step five
+# step six
 
 Unscrew the SSD, and take it out. The picture down below is where the SSD is located. It should come out at an angle. Take off the sleeve, and put it on your new SSD. Like the other SSD, it should insert at an angle. Insert it into the slot and screw it down.
 
 ![SSD](/images/steam_deck_pics/better_back.jpg)
 
-# step six
+# step seven
 
 
 Put everything back. The faceplate, the backplate, everything. 
 
-# step seven
+# step eight
 
 Plug your Steam Deck into your dock. The Steam Deck does not come with one automatically, but Valve sells one. Problem is, it sells for around 89$. Expensive stuff. I got an [off-brand one](https://www.amazon.com/dp/B0BN8HBC59?psc=1&ref=ppx_yo2ov_dt_b_product_details) for about 40 dollars.
 
 Once the Steam Deck is plugged in, go to the [SteamOS recovery site](https://help.steampowered.com/en/faqs/view/1B71-EDF2-EB6D-2BB3) to download the image on another PC you own.
 
-# step eight
+# step nine
 
 Now here you have a choice. You need to image a USB with SteamOS 3. They recommend using Etcher, but in my experience just using the Linux command to re-image the USB is better in almost every regard. For Windows users, I find that Rufus is faster than Etcher.
 
@@ -96,10 +96,10 @@ bzcat steamdeck-recovery-4.img.bz2 | sudo dd if=/dev/stdin of=/dev/sdX oflag=syn
 
 Replace the X in sdX with whatever your USB is called. If your USB is called sda, replace the X with an a. if your USB is called sdb, replace the X with a b. You get the idea.
 
-Step 8 is going to take a WHILE. It took my PC about 10 minutes to write to the USB I had.
+Step 9 is going to take a WHILE. It took my PC about 10 minutes to write to the USB I had.
 
 
-# step nine
+# step ten
 
 Once it is done, plug in the USB into your dock and power on your Steam Deck. If you do not have a dock, use a USBa to USBc adapter, but mind your battery life. USBc is the only port the Deck has, which is what it uses for charging. It's better to use a dock in case if your battery runs out. Also, your trackpads are unlikely to work so a dock will allow you to use a regular mouse. 
 
@@ -107,14 +107,14 @@ The Steam Deck should not have anything on it, so it will usually automatically 
 
 Once it is fully booted, you will be presented with four buttons. If you plugged your mouse into the dock, click on the Boot Manager option. You will see your USB listed. Click that, and it will begin loading into SteamOS.
 
-# step ten
+# step eleven
 
 Wait for SteamOS to load. It took my Deck FOREVER to load. I thought I busted it. After 20 minutes of waiting, it finally booted. You will see an option to re-image SteamOS. Do NOT click reinstall. That option is to reinstall SteamOS while keeping your games. You have no games. This will likely not work. Click re-image, go through the prompted steps, and all will be well.
 
 ![steamOS](/images/steam_deck_pics/installing.jpg)
 
 
-# step eleven
+# step twelve
 
 Once it is done installing you will need to reboot. Shut down your Deck, unplug the USB, and turn it on again. You will need to sign in to your Wi-Fi and your steam account. Please note, it is likely that none of your buttons or thumb sticks will be working. Mine were not. The mouse will also not work because the Deck will be in gaming mode. Just use the touchscreen to navigate. It works fine. 
 
