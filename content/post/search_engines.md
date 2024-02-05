@@ -46,7 +46,7 @@ Searxng is a strange one, because it is a search engine that *you* can host. I u
 
 ![searxng](/images/search_engine_pics/searxng.png)
 
-So searxng, to my knowledge, does not use its own webcrawler. Instead, it proxies other search engines and delivers you the results for each one that it looks through. You can filter each search engine by going to preferences > engines and then selecting which search engines that you wish Searxng to use. It is very handy, and this sort of hyper-personalization is the sort of thing that I live for. Because it is self hosted there is no advertisements and your personal data is entirely hosted on your own server. No Big-Brother tracking allowed. That being said, I had a few issues with it. Namely speed.
+So searxng, to my knowledge, does not use its own webcrawler. Instead, it proxies other search engines and delivers you the results for each one. You can filter each search engine by going to preferences > engines and then selecting which search engines that you wish Searxng to use. It is very handy, and this sort of hyper-personalization is the sort of thing that I live for. Because it is self hosted there is no advertisements and your personal data is entirely hosted on your own server. No Big-Brother tracking allowed. That being said, I had a few issues with it. Namely speed.
 
 ![searxng_preferences](/images/search_engine_pics/seaxng_preferences.png)
 
