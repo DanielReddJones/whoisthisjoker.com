@@ -20,7 +20,7 @@ Also keep in mind, I have not been sponsored by any of these search engines, and
 
 When most people think of "alt search engines" the first thing that comes to mind is DuckDuckGo. It is a nonprofit search engine that maintains its own web crawler, and delivers results similar to Google [source](https://duckduckgo.com/duckduckgo-help-pages/results/sources/0). Feature-wise, there isn't that much. You can use bangs to search specific sites, such as !g to get Google results and change your theme, but that is about it. You can also create your own bangs in the settings, which is neat.
 
- Still, they have a fantastic track record in terms of privacy, and because they rely on donations to keep the search engine free, it is a good option. Keep in mind, they DO use untargeted ads to help support the engine. If you use adblock these will disappear, but personally I just have an adblock extension to help support duckduckgo. Its the least I can do to support an engine with this good of a track record. It is worth mentioning that duckduckgo also allows users to disable ads in the settings, which is much appreciated.
+ Still, they have a fantastic track record in terms of privacy, and because they rely on donations to keep the search engine free, it is a good option. Keep in mind, they DO use untargeted ads to help support the engine. If you use adblock these will disappear, but personally I just have an adblock exception to help support duckduckgo. Its the least I can do to support an engine with this good of a track record. It is worth mentioning that duckduckgo also allows users to disable ads in the settings, which is much appreciated.
 
 ![duckduckgo](/images/search_engine_pics/laptop_duck.png)
 
