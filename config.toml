@@ -1,6 +1,6 @@
 baseURL = "http://whoisthisjoker.com"
 languageCode = "en-us"
-title = "C:/WhoIsThisJoker"
+title = "C:\\WhoIsThisJoker"
 theme = "my-theme"
 paginate = 5
 
