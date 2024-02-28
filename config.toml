@@ -12,7 +12,7 @@ copyright = "©Daniel Redd Jones"
   posts = "/:year/:month/:title"
 
 [params]
-	favicon = true
+	favicon = "/profile.png"
 	subtitle = "Centaurs have two ribcages"
 
 	# Optional 64x64 avatar image.
