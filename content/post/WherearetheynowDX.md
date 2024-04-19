@@ -1,6 +1,6 @@
 ---
 title: "Deus Ex - Where Are They Now?"
-date: 2024-03-13
+date: 2024-04-19
 author: "Daniel Jones"
 tags: [
   "Video Games", "History", "Writing",]
