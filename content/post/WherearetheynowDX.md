@@ -20,6 +20,8 @@ The purpose of this series is to look at developers, writers, designers, etc. of
 
 Its a masterclass in game design, and the people who worked on it have gone on to work on other projects. I feel like it would be great to highlight these projects, so that people can see where "the people have gone" and showcase their lesser known "new works." 
 
+*update 4/19/23* it was pointed out to me that Alexander Brandon did not compose Human Revolution, and I corrected my mistake. He is credited in the game because he worked on a single track in the "bob Page ending" and I mistakenly thought he did more than that[source](https://www.mobygames.com/game/52641/deus-ex-human-revolution/credits/windows/?autoplatform=true)
+
 ## Director
 
 ### Warren Spector
@@ -140,9 +142,7 @@ Same story. Worked in the same studios as Ricardo and Monte, so a lot of the sam
 
 ### Alexander Brandon
 
-This man is a legend in the world of video game music. Not only did he make the music for Deus Ex, but he did music for Unreal Tournament, Jazz Jackrabbit, Wasteland 2, Donkey Kong Country: Tropical Freeze, and much more. He was also brought back for Deus Ex: Human Revolution. Unfortunately, he was not brought back for Mankind Divided. That kind of explains why I didn't like the vibe of Mankind Divided's music as much as Human Revolution or the original...it was missing its creative visionary!
-
-He has a [Bandcamp](https://alexanderbrandon.bandcamp.com/) where he releases his personal music for sale. Interestingly, he remastered the Deus Ex soundtrack as its own album [Conspiravision](https://alexanderbrandon.bandcamp.com/album/conspiravision-deus-ex-remixed) alongside Michiel Van Den Bos. And I gotta say, it ROCKS. The full thing is available on [Spotify](https://open.spotify.com/album/5A9P4GyluI8IrcTw87xEBB) but I recommend buying the album proper, to support him and Michiel.
+This man is a legend in the world of video game music. Not only did he make the music for Deus Ex, but he did music for Unreal Tournament, Jazz Jackrabbit, Wasteland 2, Donkey Kong Country: Tropical Freeze, and much more. He has a [Bandcamp](https://alexanderbrandon.bandcamp.com/) where he releases his personal music for sale. Interestingly, he remastered the Deus Ex soundtrack as its own album [Conspiravision](https://alexanderbrandon.bandcamp.com/album/conspiravision-deus-ex-remixed) alongside Michiel Van Den Bos. And I gotta say, it ROCKS. The full thing is available on [Spotify](https://open.spotify.com/album/5A9P4GyluI8IrcTw87xEBB) but I recommend buying the album proper, to support him and Michiel.
 
 ### Michiel Van Den Bos
 
