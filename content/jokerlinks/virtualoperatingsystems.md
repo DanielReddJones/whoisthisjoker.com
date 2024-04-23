@@ -21,3 +21,6 @@ Some of these are real operating systems, some of them are not. They are all use
 [daedalOS](https://dustinbrett.com/) - This virtual OS is the personal site of Dustin Brett. Has an app for his blog, his videos, his music, etc. He linked it to me over HackerNews and while its not the most customizable, I thought it was pretty cool.
 
 [Windows Really Good Edition](https://www.newgrounds.com/portal/view/27549) - This is more of a joke, making fun of Windows ME. However, its the oldest "virtual OS" that I could find, having been developed in 2001. It runs in Flash and runs with Newgrounds Flash compatibility layer, *Ruffle.* One quick warning, if you have epilepsy clicking paint.exe or Windows Media Player is a bad idea.
+
+
+[Krazam.tv](https://www.krazam.tv/) - This one is pretty much just a fancy landing page for a youtuber called [Krazam](https://www.youtube.com/@KRAZAM/videos). It has some neat features. I like the "safe space" program that gives affirmations such as ***"You contribute meaningfully to incident management discussions and casual conversations."*** or ***"DevOps is a meaningful term. You understand DevOps because you use it every day."*** Pretty humorous stuff! There aren't any games unfortunately and it can only handle having one window open at a time. Still, its a lot of fun to toy around with for a few minutes.
