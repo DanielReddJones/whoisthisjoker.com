@@ -20,7 +20,9 @@ The purpose of this series is to look at developers, writers, designers, etc. of
 
 Its a masterclass in game design, and the people who worked on it have gone on to work on other projects. I feel like it would be great to highlight these projects, so that people can see where "the people have gone" and showcase their lesser known "new works." 
 
-*update 4/19/23* it was pointed out to me that Alexander Brandon did not compose Human Revolution, and I corrected my mistake. He is credited in the game because he worked on a single track in the "bob Page ending" and I mistakenly thought he did more than that[source](https://www.mobygames.com/game/52641/deus-ex-human-revolution/credits/windows/?autoplatform=true)
+*updates* it was pointed out to me that Alexander Brandon did not compose Human Revolution, and I corrected my mistake. He is credited in the game because he worked on a single track in the "bob Page ending" and I mistakenly thought he did more than that[source](https://www.mobygames.com/game/52641/deus-ex-human-revolution/credits/windows/?autoplatform=true).
+
+I also reworded Robin Todd's piece of the article to better reflect how they were involved with different projects, as the way I had previously written it implied that they were a producer for Redfall, when they were a writer.
 
 ## Director
 
