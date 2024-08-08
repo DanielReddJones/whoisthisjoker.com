@@ -40,7 +40,7 @@ Please note that before today, I have never used it before, so this may not be t
 
 ## Movin'_git
 
-I am now hosting Bibliofile on Gitea, which you can find at [git.whoisthisjoker.com](https://git.whoisthisjoker.com). My reason for this is because I simply do not trust Microsoft to act in my best interest as a hobbyist programmer. With GitHub copilot they are already violating GPL licenses for open source projects, and I am not interested in contributing to that. My new repository might feed Bard, Google's AI, and I am not sure what to do about preventing that. Adding my git to my robots.txt might help some, but there is nothing preventing Google from just ignoring it. 
+I am now hosting Bibliofile on Gitea, which you can find at [gitea.whoisthisjoker.com](https://gitea.whoisthisjoker.com). My reason for this is because I simply do not trust Microsoft to act in my best interest as a hobbyist programmer. With GitHub copilot they are already violating GPL licenses for open source projects, and I am not interested in contributing to that. My new repository might feed Bard, Google's AI, and I am not sure what to do about preventing that. Adding my git to my robots.txt might help some, but there is nothing preventing Google from just ignoring it. 
 
 The bright side is that, AI regardless, if Microsoft decides to get weird with GitHub I will not be affected. It is easy to argue that Github will always remain the same because it hasn't changed too drastically since it started, outside a few new bells and whistles. It will not stay the same though. Big Tech in 2023 is constantly making changes nobody likes, and frankly I think it will eventually get to Github. Copilot is already an iffy change that upset a lot of people.
 
