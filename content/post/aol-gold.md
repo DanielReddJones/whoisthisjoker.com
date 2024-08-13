@@ -1,27 +1,29 @@
+
 ---
 title: "AOL Gold Browser Review"
 date: 2024-08-12
-draft: true
+draft: false
 tags: [
-  "Browsers", "History", "AOL", "Time Warner", "Desktop Browser",]
+"Browsers", "History", "AOL", "Time Warner", "Desktop Browser",]
 categories: ["Reviews",]
 ---
 
 # Introduction
 
-As many people born in the 90s can remember, there was once a time when AOL, short for America Online, ruled the world. Besides Internet Explorer, they were one of the most used browsers in the world. From their humble beginnings on the Commodore 64 as Quantum Link, a series of network services, all the way to their "desktop browser" they had a lot going on for a long time. However, starting in 2006, they began to fall off. The reason why is that they had a security mistake that [leaked](https://en.wikipedia.org/wiki/AOL_search_log_release) millions of customers searches to the public. Why did they decide that was a good idea? No idea. It killed their juggernaut of a business, making way for Firefox and Chrome to dominate the browser market. Now, you will struggle to find anyone that talks about them at all. 
+As many people born in the 90s can remember, there was once a time when AOL, short for America Online, ruled the world. Besides Internet Explorer, they were one of the most used browsers in the world. From their humble beginnings on the Commodore 64 as Quantum Link, a series of network services, all the way to their "desktop browser" they had a lot going on for a long time. However, starting in 2006, they began to fall off. The reason why is that they had a security mistake that [leaked](https://en.wikipedia.org/wiki/AOL_search_log_release) millions of customers searches to the public. Why did they decide that was a good idea? No idea. It killed their juggernaut of a business, making way for Firefox and Chrome to dominate the browser market. That is a bit of an oversimplification, however now you will struggle to find anyone that talks about them at all.
 
-I was thinking about them earlier today, and learned that they are, surprisingly, not dead. They got bought by Yahoo sometime in the past few years, which is another surprise survivor from the 90s, and have a currently maintained version of their famous Desktop Browser. It is a paid piece of software that you have to subscribe to, for $7 a month. Both nostalgia and morbid curiosity got the better of me, so I downloaded the free trial and played around with it for a while. 
+I was thinking about them earlier today, and learned that they are, surprisingly, not dead. They got bought by Yahoo sometime in the past few years, which is another surprise survivor from the 90s, and have a currently maintained version of their famous Desktop Browser. It is a paid piece of software that you have to subscribe to, for $7 a month. Both nostalgia and morbid curiosity got the better of me, so I downloaded the free trial and played around with it for a while.
 
 I highly doubt any tech nerd that reads this blog is seriously considering using AOL Gold. Still, it's a piece of software I haven't heard anyone else talk about so I think it is a worthwhile subject to explore.
 
 ## Information about the browser
 
-AOL has a very storied history, but that is a subject for another article. Gold Browser, I assume, uses a proprietary engine that they maintain. I could find no information anywhere on what it uses. They have used a number of engines over the years...namely Netscape and Microsoft's Trident Engine. According to [Wikipedia](https://en.wikipedia.org/wiki/AOL#AOL_Desktop) version 9.8 used a variant of Chromium, so I am forced to assume it uses that. 
+AOL has a very storied history, but that is a subject for another article. Gold Browser, I assume, uses a proprietary engine that they maintain. I could find no information anywhere on what it uses. They have used a number of engines over the years...namely Netscape and Microsoft's Trident Engine. According to [Wikipedia](https://en.wikipedia.org/wiki/AOL#AOL_Desktop) version 9.8 used a variant of Chromium, so I am forced to assume it uses that.
 
 ## Getting the Browser
 
-Getting the browser was fairly annoying. You have to put in your payment. They support PayPal, or using your credit card information. After that you have to navigate to your "subscription" page to download the browser. Not sure why it doesn't automatically give the download link after you pay up. Making downloading the software you just bought as easy as possible seems like a no-brainer, but regardless you have to find the subscriptions page and click download.
+Getting the browser was fairly annoying. You have to put in your payment. They support PayPal, or using your credit card information.
+After that you have to navigate to your "subscription" page to download the browser. Not sure why it doesn't automatically give the download link after you pay up. It seems like a no-brainer to make the software you just paid for as easy as possible to download. Regardless, you have to find the subscriptions page and click download.
 
 After that, you get an install file which is about 2 megabytes. This is massive compared to Firefox's install file at 364KB, but miniscule compared to Google Chrome's 8.5 megabytes.
 
@@ -29,7 +31,7 @@ After that, you get an install file which is about 2 megabytes. This is massive 
 ![Different Browser install file sizes](/images/desktop_gold/browser_compare.png)
 
 
-The thing that really bothers me about the download is that there is no Linux version. If you run Linux or MacOS and really really want to use this browser for some reason, you pretty much just have to eat bricks. I am primarily a Linux user as you can [see in this article I wrote](https://www.whoisthisjoker.com/post/why_i_switched_to_linux/), however I do have a Windows partition just in case if there is something I can't get running on my Steam Deck or on my Linux partition. It is rarely touched, but in this case it came in handy. 
+The thing that really bothers me about the download is that there is no Linux version. If you run Linux or MacOS and really really want to use this browser for some reason, you pretty much just have to eat bricks. I am primarily a Linux user as you can [see in this article I wrote](https://www.whoisthisjoker.com/post/why_i_switched_to_linux/), however I do have a Windows partition just in case if there is something I can't get running on my Steam Deck or on my Linux partition. It is rarely touched, but in this case it came in handy.
 
 
 
@@ -39,7 +41,7 @@ Installing is not a problem. Standard "next, next, agree, next, finish" business
 
 ![login](/images/desktop_gold/1.png)
 
-This screen is redundant because as soon as you type in your username it takes you to another login screen asking for your username again.
+This screen feels redundant because as soon as you type in your username it takes you to another login screen asking for your username again.
 
 ![login again for some reason](/images/desktop_gold/2.png)
 
@@ -71,11 +73,11 @@ Used to, AOL browser came with a bunch of included images. It still does, but no
 
 The problem with this approach is that you will forever have the "free image from Pixabay" disclaimer on the bottom right of your screen.
 
-The bookmarks tab is still around, and great as ever. I was greatly disappointed that all my bookmarks from when I was 10 are no longer there. I was inactive on my AOL account for so long(12 years!) that they just deleted all of the data that was associated with my account. Email, bookmarks, search history, all of it. Gone forever. 
+The bookmarks tab is still around, and great as ever. I was greatly disappointed that all my bookmarks from when I was 10 are no longer there. I was inactive on my AOL account for so long(Not since I was 14 so...14 years!) that they just deleted all of the data that was associated with my account. Email, bookmarks, search history, all of it. Gone forever.
 
 ![bookmarks](/images/desktop_gold/8.png)
 
-The interesting thing about this is that the bookmarks had a built-in RSS feed. That is pretty handy. However, the better bookmarks area is the shortcuts area populated in the top-right of the browser. 
+The interesting thing about this is that the bookmarks had a built-in RSS feed. That is pretty handy. However, the better bookmarks area is the shortcuts area populated in the top-right of the browser.
 
 As for search, there is no built-in way to change your search engine. You are stuck with AOL search unless you go type in the search engine url you want every time. You can customize your homescreen to your favorite search engine, but that is about all you can do. Search in the search bar, get AOL search.
 
@@ -85,7 +87,7 @@ I saw the games button in the shortcut menu, and gave it a shot. I remember AOL 
 
 ![these are some seriously boomer games](/images/desktop_gold/10-games.png)
 
-I played Chess, but that was all that looked remotely interesting. During gameplay, I was interrupted by many, many video ads. I stopped counting after the 8th one.
+I played Chess, but that was all that looked remotely interesting. During gameplay, I was interrupted by many many video ads. I stopped counting after the 8th one.
 
 ![Really, right in the middle of my game?](/images/desktop_gold/12-ad-in-middle-of-game.png)
 
@@ -99,11 +101,11 @@ As you can see in the video above, that was a pretty big part of PBS Kid's marke
 
 ![pbs kids keyword results](/images/desktop_gold/14.png)
 
-Nope. Keyword search is just a fancy search engine search bar now. Frankly, I find that kind of disappointing. I have literally zero idea why it wouldn't work. Does AOL just not index AOL keywords anymore? Did PBS ask to be delisted? Who knows? Either way it seems that keywords are just a different way of accessing your settings, or searching the internet.
+Nope. Keyword search is just a fancy search engine search bar now. I tried entering the keyword with and without the space, and neither worked. Frankly, I find that kind of disappointing. I have literally zero idea why it wouldn't work. Does AOL just not index AOL keywords anymore? Did PBS ask to be delisted? Who knows? Either way it seems that keywords are just a different way of accessing your settings, or searching the internet.
 
 ## final thoughts
 
-There is no reason to use this browser. Besides the novel desktop layout, it has zero features that used to make it special. Used to be, the AOL ecosystem was part of what made it special. Have kids? Sign them up for the KOL account with games and strong parental controls. Want music? Go to AOL Radio. Want to talk to creepy elderly perverts? AOL Chat. However, most of the ecosystem is either nonexistent, or has been replaced by better 3rd party services. 
+There is no reason to use this browser. Besides the novel desktop layout, it has zero features that used to make it special. Used to be, the AOL ecosystem was part of what made it special. Have kids? Sign them up for the KOL account with games and strong parental controls. Want music? Go to AOL Radio. Want to talk to creepy elderly perverts? AOL Chat. However, most of the ecosystem is either nonexistent, or has been replaced by better 3rd party services.
 
 As well, for a paid browser, I was repulsed by the sheer amount of advertisements there are. You would think, after paying seven dollars for a browser, advertisements would be unnecessary. But nope. Ads everywhere.
 
@@ -121,8 +123,8 @@ On to less emotionally charged points:
 
 - The browser was quite quick.
 - The style is exactly as you remember it from 20 years ago.
-- No broken websites that I could find. 
-- Desktop layout 
+- No broken websites that I could find.
+- Desktop layout
 - Crunchy nostalgic sounds
 
 ### Things I did not like
