@@ -8,19 +8,29 @@ categories: [
   "Internet privacy", "search engines"]
 ---
 
+*last updated 8/14/2024*
+
 # Introduction
 
 Google for decades now has completely cornered the market in terms of search engine use. The closest alternative most people know about is Bing by Microsoft. Both Google and Bing have many, many privacy concerns that security researchers often warn about. But, despite appearances, there is a whole plethora of search engines out there that are just as good, if not better than Google. In this article, I am going to try and highlight some of these, along with my thoughts on each. Please note, these are only the ones that I have personally used. There are dozens of search engines out there, and as I research them I will be updating this article. If there are any search engines that you wish for me to review, shoot me an email at [daniel@whoisthisjoker.com](mailto:daniel@whoisthisjoker.com). 
 
 Also keep in mind, I have not been sponsored by any of these search engines, and I try to be as positive as I can while talking about them, while being honest about what features they have, whether or not its worth using, etc. 
 
+
+
 ## DuckDuckGo
 
 ![duckduckgo](/images/search_engine_pics/duckduckgo.png)
 
-When most people think of "alt search engines" the first thing that comes to mind is DuckDuckGo. It is a nonprofit search engine that maintains its own web crawler, and delivers results similar to Google [source](https://duckduckgo.com/duckduckgo-help-pages/results/sources/0). Feature-wise, there isn't that much. You can use bangs to search specific sites, such as !g to get Google results and change your theme, but that is about it. You can also create your own bangs in the settings, which is neat.
+When most people think of "alt search engines" the first thing that comes to mind is DuckDuckGo. It is a nonprofit search engine that maintains its own web crawler, and delivers results similar to Google [source](https://duckduckgo.com/duckduckgo-help-pages/results/sources/0). Feature-wise, you can use bangs to search different engines. You can also create your own bangs in the settings, which is neat. 
 
- Still, they have a fantastic track record in terms of privacy, and because they rely on donations to keep the search engine free, it is a good option. Keep in mind, they DO use untargeted ads to help support the engine. If you use adblock these will disappear, but personally I just have an adblock exception to help support duckduckgo. Its the least I can do to support an engine with this good of a track record. It is worth mentioning that duckduckgo also allows users to disable ads in the settings, which is much appreciated.
+They did also add an AI summarize feature that will take a look at your search results, and summarize everything in a paragraph. Sometimes it errored out on me. For some reason, when updating this article in August 2024, that feature disappeared on me. I am unsure if it was taken down, or if it is down for maintenance. However, they also have a plug for an anonymous chatbot session. Complete with GPT-4o mini, Claude 3 Haiku by Anthropic, and two open source GPTs. Llama 3.1 by Facebook, and Mixtral by Mistral AI.
+
+![duckGPT](/images/search_engine_pics/duck-gpt.png)
+
+None of these AI models are capable of generating images within DuckDuckGo, but they do pretty much everything else a language learning model needs to do.
+
+ They have a fantastic track record in terms of privacy, and because they rely on donations to keep the search engine free, it is a good option. Keep in mind, they DO use untargeted ads to help support the engine. If you use adblock these will disappear, but personally I just have an adblock exception to help support duckduckgo. Its the least I can do to support an engine with this good of a track record. It is worth mentioning that duckduckgo also allows users to disable ads in the settings, which is much appreciated.
 
 ![duckduckgo](/images/search_engine_pics/laptop_duck.png)
 
@@ -105,6 +115,28 @@ In all, Ecosia is just a browser you use moreso for its mission than the feature
 Miss the old web? Think Javascript and CSS are the worst things to happen to the internet? Use Wiby. The idea of Wiby is that it only serves up older websites and newer websites that barely have any javascript or CSS. Websites are added manually so there is no webcrawler looking for sites to add. I really like this one, though there is not much to say about it. Its the internet, as it was in the 90s. Both old sites and new sites. I cannot recommend it for serious searching because all you will get is blogs and 20-plus year old websites, but overall its a lot of fun to use recreationally.
 
 ![wiby laptop](/images/search_engine_pics/wiby_laptop.png)
+
+## Webcrawler
+
+Back in the 90s, there was an all-out war for search engine dominance. While preparing for my [AOL Gold](https://www.whoisthisjoker.com/post/aol-gold/) article, I learned that AOL in the 90s bought the original search engine aptly called...[webcrawler](https://www.webcrawler.com/). This one was one of the OG search engines, older than Google or even AskJeeves. It was created in April 1994 , was bought by AOL in 1995, and has been passed around by a few owners since. Their current owner is [System1](https://system1.com/) which is an advertising company. This company also used to own Waterfox, but they became independent in 2023.
+
+![Webcrawler](/images/search_engine_pics/webcrawler.png)
+
+This search engine is as basic as it gets. You search for any term, and you get results. Most of the results look to be ads, which makes sense because it is owned by an ad agency now.
+
+![Webcrawler search](/images/search_engine_pics/webcrawler-search.png)
+
+## startpage
+
+Startpage is also owned by System1. It was the default search engine of Waterfox, though I don't know if that is still the case. The front page is pretty slick. It gives you a lot of reasons to use it such as "we don't track your searches!" 
+
+![Startpage](/images/search_engine_pics/startpage.png)
+
+when you search with it, you get a lot of ads. Again, just like webcrawler, this makes sense. Its an ad company. I do like that if you search, it automatically shows a map of the closest places that might sell the thing that you are looking for, based on your location.
+
+![startpage search](/images/search_engine_pics/startpage-search.png)
+
+As for features, nothing really stands out to me. It lets you edit what country you are searching from in case if you want results you would normally never see, and a few appearance options. Between this and Duckduckgo, I think Duckduckgo is the preferred engine. I especially don't trust it because it is owned by an ad company. They *say* that they don't track searches, and maybe they don't. But it is awfully tempting for an ad agency to do so.
 
 ## Conclusion
 
