@@ -46,5 +46,7 @@ As for software packages, I installed every package group except for the KDE and
 
 I ran out of time last night and had to go to bed, but later today I am planning on installing [SpaceFM](https://ignorantguru.github.io/spacefm/) as my default file manager. It's stupidly configurable, so it seems like a good option for me. This week will probably have the most articles of any other week since I am still getting it configured to my liking.
 
+I also pay for Jetbrains tools because I like their IDEs, so I am going to need to get that up and runnning on Slackware as well. Will update with screenshots later.
+
 ## August 29, 2024
 
