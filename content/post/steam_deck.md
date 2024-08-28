@@ -4,7 +4,7 @@ date: 2023-11-17
 tags: [
   "Steam Deck", "Gaming", "Hardware"]
 categories: [
-  "customization"]
+  "customization", "tutorials"]
 ---
 
 The Steam Deck is a truly marvellous piece of hardware. Running off of a version of Arch Linux, selling good specs at a low cost, it is a good deal for anyone looking to play their Steam Library at a low cost.
