@@ -50,3 +50,12 @@ I also pay for Jetbrains tools because I like their IDEs, so I am going to need 
 
 ## August 29, 2024
 
+I decided to install i3 and set it as my default window manager. It is the window manager that I am most familiar with, and in taking on a new system where everything is alien I decided to go with what is most comfortable to me. 
+
+I learned that, if a package isn't in Slackpkg, you have to either compile it yourself or install it via slackbuilds. Slackbuilds is pretty simple, but it is annoying when there are dependencies because I have to install that too. The way it works is that you download the slackbuild file, unzip it, then put the archive folder of the source code you want to build in the folder with your slackbuild file. Then you run packagenamehere.Slackbuild and it creates a file in your /tmp folder that you can install with the program installpkg. 
+
+It is easier on other distros to be sure. This is not the standard Linux experience in 2024. It IS the standard Linux experience of the 1990s from what I hear. 
+
+To streamline this process, I found a package manager that automatically compiles slackbuild packages called sbopkg. It automates the whole process for you and gets rid of the tedious steps. I think that and Flatpak are going to be my main two package managers for this challenge. Sbopkg supposedly has a way to automatically install dependencies from what I read but I have not figured that out yet.
+
+Now that I figured out a simple way to get packages installed, I am going to figure out how to get flatpak installed tonight so that I can install proprietary apps such as Steam for when I, well, want to blow off some steam. I also need to get some customization programs for i3 installed such as i3-gaps, feh, and others. I also ran into an issue where spacefm does not want to see any files in any folders. I am unsure why that is the case, but a little searching might help me figure out why this is the case.
