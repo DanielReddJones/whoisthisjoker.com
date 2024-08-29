@@ -1,5 +1,5 @@
 ---
-title: "Using Slackware for one year"
+title: "I used Slackware for one year"
 date: 2025-08-28
 draft: true
 tags: [
