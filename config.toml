@@ -1,8 +1,9 @@
 baseURL = "http://whoisthisjoker.com"
 languageCode = "en-us"
 title = "C:\\WhoIsThisJoker"
-theme = "my-theme"
+theme = "cyberscape"
 paginate = 5
+features = ["markdown", "tailwind"]
 
 copyright = "©Daniel Redd Jones"
 # Demo only
@@ -42,26 +43,17 @@ copyright = "©Daniel Redd Jones"
 
 		
 
-	# For statistics, we can compare the total word count against a book of your choice
-	statisticsEnabled = false
-	referenceBookWords = 56750.0
-	referenceBook = "Mere Christianity"
-	referenceAuthor = "C.S. Lewis"
-
 # Nav.
-[[menu.main]]
-name = "Home"
-url = "/"
-weight = 1
+
 
 [[menu.main]]
-name = "All posts"
-url = "/post"
+name = "blog"
+url = "/blog"
 weight = 2
 
 [[menu.main]]
-name = "Fun Links"
-url = "/jokerlinks"
+name = "Funlinks"
+url = "/jokerlinks/list"
 weight = 3
 
 [[menu.main]]
@@ -86,7 +78,7 @@ weight = 7
 
 [[menu.main]]
 name = "Projects"
-url = "/projects"
+url = "/projects/projects"
 weight = 8
 
 
