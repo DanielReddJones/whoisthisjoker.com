@@ -1,7 +1,7 @@
 baseURL = "http://whoisthisjoker.com"
 languageCode = "en-us"
 title = "C:\\WhoIsThisJoker"
-theme = "cyberscape"
+theme = "my_cyberscape"
 paginate = 5
 features = ["markdown", "tailwind"]
 
