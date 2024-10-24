@@ -1,3 +1,6 @@
 [submodule "themes/my-theme"]
 	path = themes/my-theme
 	url = https://github.com/DanielReddJones/ink-free
+[submodule "themes/cyberscape"]
+	path = themes/cyberscape
+	url = https://github.com/isaksolheim/cyberscape
