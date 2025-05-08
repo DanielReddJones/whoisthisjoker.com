@@ -1,3 +1,6 @@
+# 2025
+[Long Time No Update](../post/long_time)
+
 # 2024
 
 [AOL Gold Browser Review](../post/aol-gold)

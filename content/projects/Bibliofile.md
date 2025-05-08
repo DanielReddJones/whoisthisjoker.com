@@ -5,9 +5,9 @@ draft: false
 ---
 
 
-This ebook reader, written in Rust, is entirely run in the terminal. It allows an user to open up EPUB files, and navigate them. It was inspired by the NCurses programs of old, and seeks to replicate that style of program. While you can download and run it, keep in mind that this was compiled for Linux and no versions for Windows are planned, as the libraries used are designed for Linux only.
+This ebook reader, written in Rust, is entirely run in the terminal. It allows an user to open up EPUB files, and navigate them. It was inspired by the NCurses programs of old, and seeks to replicate that style of program.
 
-| [code](http://gitea.whoisthisjoker.com/danjoredd/bibliofile) | [download](/downloads/bibliofile) | [crates.io](https://crates.io/crates/bibliofile) |
+| [code](https://github.com/DanielReddJones/bibliofile-fixed) | [download](/downloads/bibliofile)
 
 
 Technology used:
